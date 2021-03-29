@@ -1,1 +1,9 @@
-@import 'abstract';
+/**
+ * Import common params
+ */
+@import "ws-style/utils";
+
+/**
+ * Override common params => app params
+ */
+@import "abstract";
